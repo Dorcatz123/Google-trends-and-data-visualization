@@ -1,0 +1,1 @@
+**This is a mini project to analyse the patterns in the Tesla google search trend and the Tesla stock price. The same analysis is conducted on unemployment benefit search trend and the unemployment rates from 2004 till 2020, also the analysis on bitcoin search trend and the bitcoin prices.**
