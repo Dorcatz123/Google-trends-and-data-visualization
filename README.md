@@ -1,1 +1,2 @@
 **This is a mini project to analyze the patterns in Tesla's Google search trends and its stock price. The same analysis is conducted on the search trends for unemployment benefits and the unemployment rates from 2004 to 2020. Additionally, the analysis includes Bitcoin search trends and Bitcoin prices.**
+![Tesla](https://github.com/Dorcatz123/Google-trends-and-data-visualization/assets/120886051/da9cea85-4bd3-44a9-becb-2c6126bf7fb9)
